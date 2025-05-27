@@ -47,7 +47,7 @@ const questions = [
       "285, FROM",
       "105, FROM"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "An aircraft is on a VOR radial of 235o, heading 003o(M), and with the OBS set to 060. The correct indications are:",
@@ -194,7 +194,7 @@ const questions = [
     "options": [
       "000; 000 with needle central and TO indicated",
       "090; 090 with needle central and FROM indicated",
-      "000; 090 with needle central and FROM indicated",
+      "000; 000 with needle central and FROM indicated",
       "090; 090 with needle central and TO indicated"
     ],
     "correct": 2
