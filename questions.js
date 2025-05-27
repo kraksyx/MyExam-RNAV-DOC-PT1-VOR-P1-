@@ -50,7 +50,7 @@ const questions = [
     "correct": 1
   },
   {
-    "question": "An aircraft is on a VOR radial of 2350, heading 003o(M), and with the OBS set to 060. The correct indications are:",
+    "question": "An aircraft is on a VOR radial of 235o, heading 003o(M), and with the OBS set to 060. The correct indications are:",
     "options": [
       "TO: 1/2 Scale deflection to the left",
       "FROM: 1/2 Scale deflection to the left",
