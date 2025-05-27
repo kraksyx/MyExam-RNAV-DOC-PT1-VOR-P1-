@@ -10,12 +10,12 @@ const questions = [
     "correct": 3
   },
   {
-    "question": "An aircraft is attempting to track 1860M on an airway defined by a VOR 80 nm away. The VOR indicates the aircraft position. With these indications the aircraft is on the ___ radial and ___ the airway.",
+    "question": "An aircraft is attempting to track 186oM on an airway defined by a VOR 80 nm away. The VOR indicates the aircraft position. With these indications the aircraft is on the ___ radial and ___ the airway.",
     "options": [
-      "0010 outside",
-      "1810 inside",
-      "0010 inside",
-      "1810 outside"
+      "001o outside",
+      "181o inside",
+      "001o inside",
+      "181o outside"
     ],
     "correct": 0
   },
