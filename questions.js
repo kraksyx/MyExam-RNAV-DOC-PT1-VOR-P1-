@@ -317,7 +317,7 @@ const questions = [
       "(i) Clockwise; (ii) AM; (iii) FM; (iv) Anticlockwise",
       "(i) Anticlockwise; (ii) AM; (iii) FM; (iv) Anticlockwise"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "An aircraft is inbound to VOR X on the 073 radial and has a Doppler drift of 12oL. A position report is required when crossing the 133 radial from VOR Y. If the aircraft is on track the RMI indications at the reporting point will be:",
